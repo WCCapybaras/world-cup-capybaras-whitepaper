@@ -1,26 +1,24 @@
-# Changelog - v0.8
+# Changelog - v0.9
 
-## World Cup Capybaras v0.8 - Knockouts/Base Update
+## World Cup Capybaras v0.9 - Qualification Slots/Base Update
 
 - Kept public project name as World Cup Capybaras.
-- Updated game direction to Knockouts Capybaras / knockout-style game.
-- Changed active chain from Ethereum Mainnet to Base.
-- Changed mint date to TBD.
-- Changed mint price to TBD.
-- Changed mint platform to TBD.
+- Kept chain as Base.
 - Kept total supply at 1,500 NFTs.
-- Replaced weighted/team-ranking allocation with closest-even allocation across 48 teams:
-  - 36 teams with 31 NFTs
-  - 12 teams with 32 NFTs
-- Added 1 Captain NFT per team.
-- Added reward-share weighting:
-  - Standard eligible NFT = 1 share
-  - Eligible Captain NFT = 2 shares
-- Added group and final team representation language for each NFT.
-- Clarified that reward logic focuses on the knockout/elimination stage.
-- Added 2026 tournament context: 12 groups, top 2 per group, plus the 8 best third-place teams, forming a 32-team knockout field.
-- Clarified delayed reveal and active supply rules.
-- Added pre-event and post-event snapshot rules.
-- Added listing-in-window disqualification rule for active reward events.
-- Added recovered visual assets for whitepaper/Discord publishing, including a visual asset manifest, semantic whitepaper images, and pre-reveal samples.
-- Added non-affiliation and risk disclaimers.
+- Kept mint date, mint price, and mint platform as TBD.
+- Promoted the game model from closest-even team allocation to a qualification-slot model.
+- Added 32 knockout qualification slots:
+  - A1-L1 for the 12 group winner slots.
+  - A2-L2 for the 12 group runner-up slots.
+  - 3Q1-3Q8 for the 8 best third-place qualifier slots.
+- Added weighted slot supply:
+  - 54 NFTs per group winner slot.
+  - 45 NFTs per group runner-up slot.
+  - 42, 41, 40, 39, 38, 38, 37, and 37 NFTs for 3Q1-3Q8.
+- Clarified that 48 tournament teams compete for 32 represented qualification slots.
+- Clarified that NFTs reveal a qualification slot first, and the slot resolves to a real team after group-stage results are verified.
+- Updated Captain NFT rule to 1 Captain NFT per qualification slot, with eligible Captains counting as 2 reward shares.
+- Kept knockout/elimination-stage reward focus.
+- Kept pre/post snapshot and listing-in-window eligibility rules.
+- Kept visual asset publishing for whitepaper, Discord embeds, and pre-reveal content.
+- Kept non-affiliation and risk disclaimers.

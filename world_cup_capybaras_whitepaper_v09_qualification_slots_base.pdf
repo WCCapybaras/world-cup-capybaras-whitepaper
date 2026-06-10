@@ -1,0 +1,419 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2439 >>
+stream
+BT /F2 18 Tf 54 760 Td (World Cup Capybaras Whitepaper v0.9 - Qualification Slots/Base) Tj ET
+BT /F2 18 Tf 54 738 Td (Update) Tj ET
+BT /F1 11 Tf 54 702 Td (Project name: World Cup Capybaras) Tj ET
+BT /F1 11 Tf 54 687 Td (Game direction: Knockouts Capybaras / qualification-slot game) Tj ET
+BT /F1 11 Tf 54 672 Td (Version: v0.9) Tj ET
+BT /F1 11 Tf 54 657 Td (Status: Draft for publication) Tj ET
+BT /F1 11 Tf 54 642 Td (Chain: Base) Tj ET
+BT /F1 11 Tf 54 627 Td (Supply: 1,500 NFTs) Tj ET
+BT /F1 11 Tf 54 612 Td (Mint date: TBD) Tj ET
+BT /F1 11 Tf 54 597 Td (Mint price: TBD) Tj ET
+BT /F1 11 Tf 54 582 Td (Mint platform: TBD) Tj ET
+BT /F1 11 Tf 54 557 Td (Visual asset: World Cup Capybaras whitepaper scene) Tj ET
+BT /F1 11 Tf 54 532 Td (---) Tj ET
+BT /F2 14 Tf 54 507 Td (1. Project Summary) Tj ET
+BT /F1 11 Tf 54 475 Td (World Cup Capybaras is a football-inspired NFT collection built around a) Tj ET
+BT /F1 11 Tf 54 460 Td (tournament-style community game.) Tj ET
+BT /F1 11 Tf 54 435 Td (The public project name remains World Cup Capybaras. The updated game direction) Tj ET
+BT /F1 11 Tf 54 420 Td (is Knockouts Capybaras, now using a Qualification Slot Model.) Tj ET
+BT /F1 11 Tf 54 395 Td (Instead of distributing NFTs directly across all 48 national teams before the) Tj ET
+BT /F1 11 Tf 54 380 Td (tournament, the collection represents the 32 qualification slots that enter the) Tj ET
+BT /F1 11 Tf 54 365 Td (knockout stage:) Tj ET
+BT /F1 11 Tf 54 340 Td (- 12 group winner slots;) Tj ET
+BT /F1 11 Tf 54 325 Td (- 12 group runner-up slots; and) Tj ET
+BT /F1 11 Tf 54 310 Td (- 8 best third-place qualification slots.) Tj ET
+BT /F1 11 Tf 54 285 Td (This keeps the game tied to the official tournament structure while making the) Tj ET
+BT /F1 11 Tf 54 270 Td (collection easier to understand: each NFT is assigned to a qualification slot) Tj ET
+BT /F1 11 Tf 54 255 Td (such as A1, A2, or 3Q1. After the group stage, that slot resolves to the real) Tj ET
+BT /F1 11 Tf 54 240 Td (team that earned it.) Tj ET
+BT /F1 11 Tf 54 215 Td (The collection is planned for Base. Mint date, mint price, and mint platform are) Tj ET
+BT /F1 11 Tf 54 200 Td (currently TBD.) Tj ET
+BT /F1 11 Tf 54 175 Td (Visual asset: World Cup Capybaras project logo) Tj ET
+BT /F1 11 Tf 54 150 Td (---) Tj ET
+BT /F2 14 Tf 54 125 Td (2. Launch Configuration) Tj ET
+BT /F1 11 Tf 54 93 Td (| Item | Current Definition |) Tj ET
+BT /F1 11 Tf 54 78 Td (| --- | --- |) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2415 >>
+stream
+BT /F1 11 Tf 54 760 Td (| Public project name | World Cup Capybaras |) Tj ET
+BT /F1 11 Tf 54 745 Td (| Game direction | Knockouts Capybaras / qualification-slot game |) Tj ET
+BT /F1 11 Tf 54 730 Td (| Chain | Base |) Tj ET
+BT /F1 11 Tf 54 715 Td (| Total supply | 1,500 NFTs |) Tj ET
+BT /F1 11 Tf 54 700 Td (| Mint date | TBD |) Tj ET
+BT /F1 11 Tf 54 685 Td (| Mint price | TBD |) Tj ET
+BT /F1 11 Tf 54 670 Td (| Mint platform | TBD |) Tj ET
+BT /F1 11 Tf 54 655 Td (| Reveal timing | TBD; after mint closes and before gameplay starts |) Tj ET
+BT /F1 11 Tf 54 640 Td (| Active supply | NFTs minted before the official cutoff |) Tj ET
+BT /F1 11 Tf 54 625 Td (| Unsold NFTs | Do not participate in rewards |) Tj ET
+BT /F1 11 Tf 54 600 Td (The project will not treat unsold NFTs as eligible game participants. Only NFTs) Tj ET
+BT /F1 11 Tf 54 585 Td (that are part of the active minted supply can participate in tournament reward) Tj ET
+BT /F1 11 Tf 54 570 Td (logic.) Tj ET
+BT /F1 11 Tf 54 545 Td (---) Tj ET
+BT /F2 14 Tf 54 520 Td (3. Qualification Slot Model) Tj ET
+BT /F1 11 Tf 54 488 Td (The 2026 tournament structure used as game context has 48 teams split into 12) Tj ET
+BT /F1 11 Tf 54 473 Td (groups.) Tj ET
+BT /F1 11 Tf 54 448 Td (The knockout field has 32 teams:) Tj ET
+BT /F1 11 Tf 54 423 Td (- the top 2 teams from each of the 12 groups qualify directly;) Tj ET
+BT /F1 11 Tf 54 408 Td (- the 8 best third-place teams overall also qualify.) Tj ET
+BT /F1 11 Tf 54 383 Td (World Cup Capybaras represents these 32 knockout qualification slots.) Tj ET
+BT /F2 12 Tf 54 358 Td (3.1 Slot ID System) Tj ET
+BT /F1 11 Tf 54 328 Td (Group winner slots:) Tj ET
+BT /F1 11 Tf 54 303 Td (| Slot format | Meaning |) Tj ET
+BT /F1 11 Tf 54 288 Td (| --- | --- |) Tj ET
+BT /F1 11 Tf 54 273 Td (| A1 | Winner of Group A |) Tj ET
+BT /F1 11 Tf 54 258 Td (| B1 | Winner of Group B |) Tj ET
+BT /F1 11 Tf 54 243 Td (| ... | ... |) Tj ET
+BT /F1 11 Tf 54 228 Td (| L1 | Winner of Group L |) Tj ET
+BT /F1 11 Tf 54 203 Td (Group runner-up slots:) Tj ET
+BT /F1 11 Tf 54 178 Td (| Slot format | Meaning |) Tj ET
+BT /F1 11 Tf 54 163 Td (| --- | --- |) Tj ET
+BT /F1 11 Tf 54 148 Td (| A2 | Runner-up of Group A |) Tj ET
+BT /F1 11 Tf 54 133 Td (| B2 | Runner-up of Group B |) Tj ET
+BT /F1 11 Tf 54 118 Td (| ... | ... |) Tj ET
+BT /F1 11 Tf 54 103 Td (| L2 | Runner-up of Group L |) Tj ET
+BT /F1 11 Tf 54 78 Td (Best third-place slots:) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2706 >>
+stream
+BT /F1 11 Tf 54 750 Td (| Slot format | Meaning |) Tj ET
+BT /F1 11 Tf 54 735 Td (| --- | --- |) Tj ET
+BT /F1 11 Tf 54 720 Td (| 3Q1 | Best third-place qualifier overall |) Tj ET
+BT /F1 11 Tf 54 705 Td (| 3Q2 | Second-best third-place qualifier overall |) Tj ET
+BT /F1 11 Tf 54 690 Td (| ... | ... |) Tj ET
+BT /F1 11 Tf 54 675 Td (| 3Q8 | Eighth-best third-place qualifier overall |) Tj ET
+BT /F1 11 Tf 54 650 Td (Third-place slot order follows the official tournament ranking and tiebreaker) Tj ET
+BT /F1 11 Tf 54 635 Td (order used to determine the 8 best third-place qualifiers.) Tj ET
+BT /F1 11 Tf 54 610 Td (Visual asset: World Cup Capybaras knockout stadium) Tj ET
+BT /F1 11 Tf 54 585 Td (---) Tj ET
+BT /F2 14 Tf 54 560 Td (4. Slot Supply Allocation) Tj ET
+BT /F1 11 Tf 54 528 Td (The collection has 1,500 NFTs across 32 qualification slots.) Tj ET
+BT /F1 11 Tf 54 503 Td (The supply is intentionally weighted by expected qualification strength:) Tj ET
+BT /F1 11 Tf 54 478 Td (- group winners have the most NFTs;) Tj ET
+BT /F1 11 Tf 54 463 Td (- group runners-up have fewer NFTs;) Tj ET
+BT /F1 11 Tf 54 448 Td (- best third-place qualifiers have the fewest NFTs.) Tj ET
+BT /F1 11 Tf 54 423 Td (| Slot type | Slot IDs | Slots | NFTs per slot | Total NFTs |) Tj ET
+BT /F1 11 Tf 54 408 Td (| --- | --- | ---: | ---: | ---: |) Tj ET
+BT /F1 11 Tf 54 393 Td (| Group winners | A1-L1 | 12 | 54 | 648 |) Tj ET
+BT /F1 11 Tf 54 378 Td (| Group runners-up | A2-L2 | 12 | 45 | 540 |) Tj ET
+BT /F1 11 Tf 54 363 Td (| Best third-place #1 | 3Q1 | 1 | 42 | 42 |) Tj ET
+BT /F1 11 Tf 54 348 Td (| Best third-place #2 | 3Q2 | 1 | 41 | 41 |) Tj ET
+BT /F1 11 Tf 54 333 Td (| Best third-place #3 | 3Q3 | 1 | 40 | 40 |) Tj ET
+BT /F1 11 Tf 54 318 Td (| Best third-place #4 | 3Q4 | 1 | 39 | 39 |) Tj ET
+BT /F1 11 Tf 54 303 Td (| Best third-place #5 | 3Q5 | 1 | 38 | 38 |) Tj ET
+BT /F1 11 Tf 54 288 Td (| Best third-place #6 | 3Q6 | 1 | 38 | 38 |) Tj ET
+BT /F1 11 Tf 54 273 Td (| Best third-place #7 | 3Q7 | 1 | 37 | 37 |) Tj ET
+BT /F1 11 Tf 54 258 Td (| Best third-place #8 | 3Q8 | 1 | 37 | 37 |) Tj ET
+BT /F1 11 Tf 54 243 Td (| Total |  | 32 |  | 1,500 |) Tj ET
+BT /F1 11 Tf 54 218 Td (This means a first-place group slot is more common than a second-place group) Tj ET
+BT /F1 11 Tf 54 203 Td (slot, and a third-place qualifier slot is scarcer than both.) Tj ET
+BT /F1 11 Tf 54 178 Td (The previous closest-even 48-team allocation concept is now archived and should) Tj ET
+BT /F1 11 Tf 54 163 Td (not be treated as the current rule.) Tj ET
+BT /F1 11 Tf 54 138 Td (---) Tj ET
+BT /F2 14 Tf 54 113 Td (5. Reveal, Slot Assignment, and Team Resolution) Tj ET
+BT /F1 11 Tf 54 81 Td (The collection will use a delayed reveal.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2572 >>
+stream
+BT /F1 11 Tf 54 750 Td (Before reveal, NFTs may display generic pre-reveal Capybara artwork.) Tj ET
+BT /F1 11 Tf 54 725 Td (Visual asset: World Cup Capybaras pre-reveal artwork) Tj ET
+BT /F1 11 Tf 54 700 Td (After mint closes, the active supply will be confirmed and the reveal process) Tj ET
+BT /F1 11 Tf 54 685 Td (will begin. Reveal timing is currently TBD, but reveal is intended to happen) Tj ET
+BT /F1 11 Tf 54 670 Td (after mint closes and before gameplay starts.) Tj ET
+BT /F1 11 Tf 54 645 Td (At reveal, each NFT is expected to show:) Tj ET
+BT /F1 11 Tf 54 620 Td (- final Capybara artwork;) Tj ET
+BT /F1 11 Tf 54 605 Td (- assigned qualification slot;) Tj ET
+BT /F1 11 Tf 54 590 Td (- slot type;) Tj ET
+BT /F1 11 Tf 54 575 Td (- reward weight;) Tj ET
+BT /F1 11 Tf 54 560 Td (- Captain status, when applicable.) Tj ET
+BT /F1 11 Tf 54 535 Td (After the tournament group stage is complete, each slot resolves to the real) Tj ET
+BT /F1 11 Tf 54 520 Td (team that earned that slot.) Tj ET
+BT /F1 11 Tf 54 495 Td (Example:) Tj ET
+BT /F1 11 Tf 54 470 Td (- A1 resolves to the winner of Group A.) Tj ET
+BT /F1 11 Tf 54 455 Td (- A2 resolves to the runner-up of Group A.) Tj ET
+BT /F1 11 Tf 54 440 Td (- 3Q1 resolves to the best third-place qualifier overall.) Tj ET
+BT /F1 11 Tf 54 415 Td (Once a slot is assigned to an NFT, the slot assignment is final. Once official) Tj ET
+BT /F1 11 Tf 54 400 Td (group-stage results are verified, the resolved team for that slot is final for) Tj ET
+BT /F1 11 Tf 54 385 Td (game purposes.) Tj ET
+BT /F1 11 Tf 54 360 Td (---) Tj ET
+BT /F2 14 Tf 54 335 Td (6. Captain NFTs) Tj ET
+BT /F1 11 Tf 54 303 Td (Each qualification slot will include 1 Captain NFT.) Tj ET
+BT /F1 11 Tf 54 278 Td (There are expected to be 32 Captain NFTs total, one for each qualification slot.) Tj ET
+BT /F1 11 Tf 54 253 Td (Captain NFTs are special slot NFTs with a reward weight of 2 reward shares when) Tj ET
+BT /F1 11 Tf 54 238 Td (eligible.) Tj ET
+BT /F1 11 Tf 54 213 Td (Reward share weighting:) Tj ET
+BT /F1 11 Tf 54 188 Td (| NFT type | Eligible reward share weight |) Tj ET
+BT /F1 11 Tf 54 173 Td (| --- | ---: |) Tj ET
+BT /F1 11 Tf 54 158 Td (| Standard eligible NFT | 1 share |) Tj ET
+BT /F1 11 Tf 54 143 Td (| Eligible Captain NFT | 2 shares |) Tj ET
+BT /F1 11 Tf 54 118 Td (Captains do not bypass any game rule, snapshot rule, listing rule, wallet-) Tj ET
+BT /F1 11 Tf 54 103 Td (holding rule, or eligibility rule. A Captain NFT must satisfy the same) Tj ET
+BT /F1 11 Tf 54 88 Td (eligibility requirements as any other NFT to receive rewards.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 2158 >>
+stream
+BT /F1 11 Tf 54 760 Td (If a Captain NFT is not eligible for a matchday or round, it receives no reward) Tj ET
+BT /F1 11 Tf 54 745 Td (for that event.) Tj ET
+BT /F1 11 Tf 54 720 Td (---) Tj ET
+BT /F2 14 Tf 54 695 Td (7. Reward Share Calculation) Tj ET
+BT /F1 11 Tf 54 663 Td (When a reward is distributed for an eligible knockout-stage event, the reward) Tj ET
+BT /F1 11 Tf 54 648 Td (pool for that event is divided by total eligible reward shares.) Tj ET
+BT /F1 11 Tf 54 623 Td (Example:) Tj ET
+BT /F1 11 Tf 54 598 Td (If an eligible winning slot includes:) Tj ET
+BT /F1 11 Tf 54 573 Td (- 10 standard eligible NFTs) Tj ET
+BT /F1 11 Tf 54 558 Td (- 1 eligible Captain NFT) Tj ET
+BT /F1 11 Tf 54 533 Td (Then total reward shares are:) Tj ET
+BT /F1 11 Tf 54 508 Td (- 10 standard NFTs x 1 = 10 shares) Tj ET
+BT /F1 11 Tf 54 493 Td (- 1 Captain NFT x 2 = 2 shares) Tj ET
+BT /F1 11 Tf 54 478 Td (- Total = 12 reward shares) Tj ET
+BT /F1 11 Tf 54 453 Td (The Captain receives 2 shares. Each standard eligible NFT receives 1 share.) Tj ET
+BT /F1 11 Tf 54 428 Td (This system lets Captains receive double the reward share while keeping) Tj ET
+BT /F1 11 Tf 54 413 Td (eligibility rules consistent across all NFTs.) Tj ET
+BT /F1 11 Tf 54 388 Td (Visual asset: World Cup Capybaras community rewards) Tj ET
+BT /F1 11 Tf 54 363 Td (---) Tj ET
+BT /F2 14 Tf 54 338 Td (8. Metadata Traits) Tj ET
+BT /F1 11 Tf 54 306 Td (Final metadata may include, but is not limited to:) Tj ET
+BT /F1 11 Tf 54 281 Td (- Qualification Slot) Tj ET
+BT /F1 11 Tf 54 266 Td (- Slot Type) Tj ET
+BT /F1 11 Tf 54 251 Td (- Slot Supply Tier) Tj ET
+BT /F1 11 Tf 54 236 Td (- Resolved Team, after group-stage results are verified) Tj ET
+BT /F1 11 Tf 54 221 Td (- Captain status) Tj ET
+BT /F1 11 Tf 54 206 Td (- Reward weight) Tj ET
+BT /F1 11 Tf 54 191 Td (- Game format) Tj ET
+BT /F1 11 Tf 54 176 Td (- Artwork traits) Tj ET
+BT /F1 11 Tf 54 151 Td (Expected game-specific traits:) Tj ET
+BT /F1 11 Tf 54 126 Td (| Trait | Example |) Tj ET
+BT /F1 11 Tf 54 111 Td (| --- | --- |) Tj ET
+BT /F1 11 Tf 54 96 Td (| Qualification Slot | A1 |) Tj ET
+BT /F1 11 Tf 54 81 Td (| Slot Type | Group Winner |) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 2652 >>
+stream
+BT /F1 11 Tf 54 760 Td (| Slot Supply Tier | Winner slot / 54 NFTs |) Tj ET
+BT /F1 11 Tf 54 745 Td (| Resolved Team | Winner of Group A, once known |) Tj ET
+BT /F1 11 Tf 54 730 Td (| Captain | Yes / No |) Tj ET
+BT /F1 11 Tf 54 715 Td (| Reward Weight | 1 or 2 |) Tj ET
+BT /F1 11 Tf 54 700 Td (| Game Format | Knockouts Capybaras |) Tj ET
+BT /F1 11 Tf 54 685 Td (| Chain | Base |) Tj ET
+BT /F1 11 Tf 54 660 Td (The project may adjust non-game artistic traits before final metadata) Tj ET
+BT /F1 11 Tf 54 645 Td (publication. Slot assignment, Captain status, and reward weight must be handled) Tj ET
+BT /F1 11 Tf 54 630 Td (consistently with the published rules.) Tj ET
+BT /F1 11 Tf 54 605 Td (---) Tj ET
+BT /F2 14 Tf 54 580 Td (9. Matchday Snapshots and Listing Eligibility) Tj ET
+BT /F1 11 Tf 54 548 Td (For each active reward event, the project may take two official snapshots:) Tj ET
+BT /F1 11 Tf 54 523 Td (1. Pre-event snapshot) Tj ET
+BT /F1 11 Tf 54 508 Td (2. Post-event snapshot) Tj ET
+BT /F1 11 Tf 54 483 Td (After the post-event snapshot, the project will calculate preliminary eligible) Tj ET
+BT /F1 11 Tf 54 468 Td (NFTs based on:) Tj ET
+BT /F1 11 Tf 54 443 Td (- the NFT being held by the same wallet in both snapshots;) Tj ET
+BT /F1 11 Tf 54 428 Td (- the NFT's qualification slot resolving to, qualifying for, participating in,) Tj ET
+BT /F1 11 Tf 54 413 Td (or advancing through the active knockout-stage reward event, depending on the) Tj ET
+BT /F1 11 Tf 54 398 Td (published event rules;) Tj ET
+BT /F1 11 Tf 54 383 Td (- the NFT being part of the active minted supply.) Tj ET
+BT /F1 11 Tf 54 358 Td (The project will then verify whether any preliminary eligible NFT was listed for) Tj ET
+BT /F1 11 Tf 54 343 Td (sale at any point during the event window.) Tj ET
+BT /F1 11 Tf 54 318 Td (If an NFT was listed for sale at any time between the pre-event snapshot and the) Tj ET
+BT /F1 11 Tf 54 303 Td (post-event snapshot, that NFT is not eligible to receive that event's reward.) Tj ET
+BT /F1 11 Tf 54 278 Td (The event window begins at the official pre-event snapshot and ends at the) Tj ET
+BT /F1 11 Tf 54 263 Td (official post-event snapshot.) Tj ET
+BT /F1 11 Tf 54 238 Td (Final event eligibility is confirmed only after listing verification is) Tj ET
+BT /F1 11 Tf 54 223 Td (completed.) Tj ET
+BT /F1 11 Tf 54 198 Td (Visual asset: World Cup Capybaras snapshot and listing rules) Tj ET
+BT /F1 11 Tf 54 173 Td (---) Tj ET
+BT /F2 14 Tf 54 148 Td (10. Reward Eligibility) Tj ET
+BT /F1 11 Tf 54 116 Td (An NFT is not automatically eligible for a reward simply because its resolved) Tj ET
+BT /F1 11 Tf 54 101 Td (team performs well.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 2849 >>
+stream
+BT /F1 11 Tf 54 760 Td (To be eligible for a knockout-stage event or round reward, an NFT must satisfy) Tj ET
+BT /F1 11 Tf 54 745 Td (the active published criteria, including:) Tj ET
+BT /F1 11 Tf 54 720 Td (- being part of the active minted supply;) Tj ET
+BT /F1 11 Tf 54 705 Td (- being held by the same wallet in the pre-event and post-event snapshots;) Tj ET
+BT /F1 11 Tf 54 690 Td (- having a qualification slot that resolves to a team that qualifies under that) Tj ET
+BT /F1 11 Tf 54 675 Td (event's knockout-stage result rules;) Tj ET
+BT /F1 11 Tf 54 660 Td (- not being listed for sale at any time during the event window;) Tj ET
+BT /F1 11 Tf 54 645 Td (- satisfying any additional published eligibility rule for that event.) Tj ET
+BT /F1 11 Tf 54 620 Td (Captain NFTs follow the same eligibility rules. The only difference is reward-) Tj ET
+BT /F1 11 Tf 54 605 Td (share weight: an eligible Captain counts as 2 reward shares instead of 1.) Tj ET
+BT /F1 11 Tf 54 580 Td (---) Tj ET
+BT /F2 14 Tf 54 555 Td (11. Listing Rule) Tj ET
+BT /F1 11 Tf 54 523 Td (NFTs listed for sale during an active reward event window are not eligible for) Tj ET
+BT /F1 11 Tf 54 508 Td (that event's reward.) Tj ET
+BT /F1 11 Tf 54 483 Td (This rule is intended to discourage short-term listing behavior during active) Tj ET
+BT /F1 11 Tf 54 468 Td (gameplay windows and protect the game logic from abuse.) Tj ET
+BT /F1 11 Tf 54 443 Td (The listing window begins at the official pre-event snapshot and ends at the) Tj ET
+BT /F1 11 Tf 54 428 Td (official post-event snapshot.) Tj ET
+BT /F1 11 Tf 54 403 Td (A listed NFT may still participate in future events if it satisfies the future) Tj ET
+BT /F1 11 Tf 54 388 Td (event's eligibility rules.) Tj ET
+BT /F1 11 Tf 54 363 Td (---) Tj ET
+BT /F2 14 Tf 54 338 Td (12. Reward Pool Notes) Tj ET
+BT /F1 11 Tf 54 306 Td (Reward pool details, reward funding, payout mechanics, payout timing, and) Tj ET
+BT /F1 11 Tf 54 291 Td (operational procedures may be published separately before the game starts.) Tj ET
+BT /F1 11 Tf 54 266 Td (The project may use manual or automated verification workflows to calculate) Tj ET
+BT /F1 11 Tf 54 251 Td (eligibility. Final reward eligibility is confirmed only after the project) Tj ET
+BT /F1 11 Tf 54 236 Td (completes snapshot review, wallet review, slot resolution review, team-result) Tj ET
+BT /F1 11 Tf 54 221 Td (review, and listing verification.) Tj ET
+BT /F1 11 Tf 54 196 Td (No reward is guaranteed unless all published eligibility requirements are) Tj ET
+BT /F1 11 Tf 54 181 Td (satisfied and the project confirms final eligibility.) Tj ET
+BT /F1 11 Tf 54 156 Td (---) Tj ET
+BT /F2 14 Tf 54 131 Td (13. Community and Discord) Tj ET
+BT /F1 11 Tf 54 99 Td (The Discord server is the main community coordination space for:) Tj ET
+BT /F1 11 Tf 54 74 Td (- official announcements;) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 2701 >>
+stream
+BT /F1 11 Tf 54 760 Td (- rules and security updates;) Tj ET
+BT /F1 11 Tf 54 745 Td (- mint information;) Tj ET
+BT /F1 11 Tf 54 730 Td (- team and slot discussions;) Tj ET
+BT /F1 11 Tf 54 715 Td (- raffle and collab information;) Tj ET
+BT /F1 11 Tf 54 700 Td (- reward and knockout-stage updates.) Tj ET
+BT /F1 11 Tf 54 675 Td (Community team roles do not change NFT metadata, qualification slot assignment,) Tj ET
+BT /F1 11 Tf 54 660 Td (resolved team, reward eligibility, or reward share weight.) Tj ET
+BT /F1 11 Tf 54 635 Td (Members should only trust links posted in official channels. The team will never) Tj ET
+BT /F1 11 Tf 54 620 Td (ask for seed phrases, private keys, wallet passwords, or secret recovery) Tj ET
+BT /F1 11 Tf 54 605 Td (phrases.) Tj ET
+BT /F1 11 Tf 54 580 Td (---) Tj ET
+BT /F2 14 Tf 54 555 Td (14. Safety and Anti-Scam Rules) Tj ET
+BT /F1 11 Tf 54 523 Td (Users should follow these safety rules:) Tj ET
+BT /F1 11 Tf 54 498 Td (- Never share a seed phrase or private key.) Tj ET
+BT /F1 11 Tf 54 483 Td (- Never trust unsolicited DMs claiming to be support.) Tj ET
+BT /F1 11 Tf 54 468 Td (- Only use links from official project channels.) Tj ET
+BT /F1 11 Tf 54 453 Td (- Verify mint information before interacting with any contract or page.) Tj ET
+BT /F1 11 Tf 54 438 Td (- Treat fake mint links, fake support accounts, and fake airdrops as scams.) Tj ET
+BT /F1 11 Tf 54 413 Td (The project may update safety rules as needed before mint and before gameplay) Tj ET
+BT /F1 11 Tf 54 398 Td (starts.) Tj ET
+BT /F1 11 Tf 54 373 Td (Visual asset: World Cup Capybaras classic hero) Tj ET
+BT /F1 11 Tf 54 348 Td (---) Tj ET
+BT /F2 14 Tf 54 323 Td (15. Non-Affiliation Disclaimer) Tj ET
+BT /F1 11 Tf 54 291 Td (World Cup Capybaras is not affiliated with FIFA, the FIFA World Cup, national) Tj ET
+BT /F1 11 Tf 54 276 Td (teams, federations, leagues, sponsors, players, or official tournament) Tj ET
+BT /F1 11 Tf 54 261 Td (organizers.) Tj ET
+BT /F1 11 Tf 54 236 Td (All football, country, and tournament-inspired references are used as part of an) Tj ET
+BT /F1 11 Tf 54 221 Td (independent community collectibles game concept.) Tj ET
+BT /F1 11 Tf 54 196 Td (---) Tj ET
+BT /F2 14 Tf 54 171 Td (16. Risk Disclaimer) Tj ET
+BT /F1 11 Tf 54 139 Td (NFTs involve risk. Participation in the project should not be considered) Tj ET
+BT /F1 11 Tf 54 124 Td (financial advice, investment advice, or a guarantee of profit.) Tj ET
+BT /F1 11 Tf 54 99 Td (Mint details, marketplace behavior, network fees, reward mechanics, eligibility) Tj ET
+BT /F1 11 Tf 54 84 Td (verification, metadata updates, and project operations may involve technical and) Tj ET
+BT /F1 11 Tf 54 69 Td (operational risks.) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 1655 >>
+stream
+BT /F1 11 Tf 54 750 Td (Users are responsible for their own wallet security and transaction decisions.) Tj ET
+BT /F1 11 Tf 54 725 Td (---) Tj ET
+BT /F2 14 Tf 54 700 Td (17. Version History) Tj ET
+BT /F1 11 Tf 54 668 Td (| Version | Summary |) Tj ET
+BT /F1 11 Tf 54 653 Td (| --- | --- |) Tj ET
+BT /F1 11 Tf 54 638 Td (| v0.6 | Earlier Ethereum/Highlight-oriented draft |) Tj ET
+BT /F1 11 Tf 54 623 Td (| v0.7 | Mint/reveal and snapshot/listing clarification draft |) Tj ET
+BT /F1 11 Tf 54 608 Td (| v0.8 | Knockouts/Base update with closest-even 48-team allocation concept |) Tj ET
+BT /F1 11 Tf 54 593 Td (| v0.9 | Qualification Slot Model: 32 knockout qualification slots,) Tj ET
+BT /F1 11 Tf 54 578 Td (A1-L1/A2-L2/3Q1-3Q8 IDs, weighted slot supply, Base/TBD launch details |) Tj ET
+BT /F1 11 Tf 54 553 Td (---) Tj ET
+BT /F2 14 Tf 54 528 Td (18. Current Status) Tj ET
+BT /F1 11 Tf 54 496 Td (This v0.9 whitepaper is the current project direction draft.) Tj ET
+BT /F1 11 Tf 54 471 Td (Before final launch, the project should confirm:) Tj ET
+BT /F1 11 Tf 54 446 Td (- mint platform;) Tj ET
+BT /F1 11 Tf 54 431 Td (- mint date;) Tj ET
+BT /F1 11 Tf 54 416 Td (- mint price;) Tj ET
+BT /F1 11 Tf 54 401 Td (- final reveal process;) Tj ET
+BT /F1 11 Tf 54 386 Td (- final slot metadata process;) Tj ET
+BT /F1 11 Tf 54 371 Td (- final slot resolution process after group-stage results;) Tj ET
+BT /F1 11 Tf 54 356 Td (- final snapshot timing;) Tj ET
+BT /F1 11 Tf 54 341 Td (- final knockout reward event schedule;) Tj ET
+BT /F1 11 Tf 54 326 Td (- final reward pool mechanics;) Tj ET
+BT /F1 11 Tf 54 311 Td (- final contract and metadata deployment details.) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000176 00000 n 
+0000000246 00000 n 
+0000000321 00000 n 
+0000002812 00000 n 
+0000002948 00000 n 
+0000005415 00000 n 
+0000005551 00000 n 
+0000008309 00000 n 
+0000008446 00000 n 
+0000011071 00000 n 
+0000011209 00000 n 
+0000013420 00000 n 
+0000013558 00000 n 
+0000016263 00000 n 
+0000016401 00000 n 
+0000019303 00000 n 
+0000019441 00000 n 
+0000022195 00000 n 
+0000022333 00000 n 
+0000024041 00000 n 
+trailer
+<< /Size 23 /Root 1 0 R >>
+startxref
+24179
+%%EOF
