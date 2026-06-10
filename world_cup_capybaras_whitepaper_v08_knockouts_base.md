@@ -10,7 +10,7 @@
 **Mint price:** TBD  
 **Mint platform:** TBD
 
-![World Cup Capybaras - Knockouts Capybara](assets/whitepaper/hero-knockouts-capybara.png)
+![World Cup Capybaras whitepaper scene](assets/whitepaper/whitepaper-office-scene.png)
 
 ---
 
@@ -23,6 +23,8 @@ The public project name remains **World Cup Capybaras**. The updated game direct
 The collection is planned for **Base**. Mint date, mint price, and mint platform are currently **TBD**.
 
 Before reveal, NFTs may display a generic pre-reveal Capybara artwork. After reveal, each NFT will show its final artwork and assigned national team.
+
+![World Cup Capybaras project logo](assets/whitepaper/project-logo-glow.png)
 
 ---
 
@@ -83,6 +85,8 @@ For World Cup Capybaras, the group stage matters because it determines which rep
 
 The project may publish a more detailed reward calendar before gameplay starts, including which knockout rounds are active reward events and how snapshots apply to each event.
 
+![World Cup Capybaras knockout stadium](assets/whitepaper/stadium-knockouts-banner.png)
+
 ---
 
 ## 4. Captain NFTs
@@ -125,6 +129,8 @@ The Captain receives 2 shares. Each standard NFT receives 1 share.
 
 This system lets Captains receive double the reward share while keeping eligibility rules consistent across all NFTs.
 
+![World Cup Capybaras community rewards](assets/whitepaper/claims-community-rewards.png)
+
 ---
 
 ## 6. Reveal and Active Supply
@@ -132,6 +138,8 @@ This system lets Captains receive double the reward share while keeping eligibil
 The collection will use a delayed reveal.
 
 Before reveal, NFTs may display a generic pre-reveal Capybara artwork.
+
+![World Cup Capybaras pre-reveal artwork](assets/pre-reveal/pre-reveal-01.png)
 
 After mint closes, the active supply will be confirmed and the reveal process will begin. Reveal timing is currently **TBD**, but reveal is intended to happen after mint closes and before the game starts.
 
@@ -192,6 +200,8 @@ If an NFT was listed for sale at any time between the pre-event snapshot and the
 The event window begins at the official pre-event snapshot and ends at the official post-event snapshot.
 
 Final event eligibility is confirmed only after listing verification is completed.
+
+![World Cup Capybaras snapshot and listing rules](assets/whitepaper/snapshot-rules-board.png)
 
 ---
 
@@ -259,6 +269,8 @@ Users should follow these safety rules:
 - Treat fake mint links, fake support accounts, and fake airdrops as scams.
 
 The project may update safety rules as needed before mint and before gameplay starts.
+
+![World Cup Capybaras classic hero](assets/whitepaper/hero-knockouts-capybara.png)
 
 ---
 

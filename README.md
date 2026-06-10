@@ -19,6 +19,7 @@ Current official whitepaper:
 - Reward focus: knockout/elimination stage
 - Tournament context: 12 groups; top 2 from each group qualify directly, plus the 8 best third-place teams, forming a 32-team knockout field
 - Captains: 1 Captain NFT per team; eligible Captains count as 2 reward shares
-- Visual assets are included under [`assets/whitepaper/`](./assets/whitepaper/)
+- Visual assets are included under [`assets/whitepaper/`](./assets/whitepaper/) and [`assets/pre-reveal/`](./assets/pre-reveal/)
+- The published package includes a reusable visual manifest at [`assets/visual-assets.json`](./assets/visual-assets.json)
 
 Older versions are archived and should not be treated as the current whitepaper.

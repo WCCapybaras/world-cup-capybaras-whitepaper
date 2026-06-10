@@ -1,0 +1,114 @@
+{
+  "version": "0.1.0",
+  "profileKey": "world-cup-capybaras",
+  "assets": [
+    {
+      "key": "project-logo-glow",
+      "title": "Project logo",
+      "path": "assets/whitepaper/project-logo-glow.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Primary identity image for official links, start-here, mint status, and compact thumbnails.",
+      "recommendedTargets": ["officialLinks", "startHere", "mintStatus", "mintUpdates", "faq"]
+    },
+    {
+      "key": "whitepaper-office-scene",
+      "title": "Whitepaper office scene",
+      "path": "assets/whitepaper/whitepaper-office-scene.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Hero image for the whitepaper, version announcements, and documentation publishing.",
+      "recommendedTargets": ["announcements", "whitepaper", "roadmap", "draftAnnouncements"]
+    },
+    {
+      "key": "stadium-knockouts-banner",
+      "title": "Knockouts stadium banner",
+      "path": "assets/whitepaper/stadium-knockouts-banner.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Wide image for game updates, match results, and tournament context posts.",
+      "recommendedTargets": ["gameUpdates", "matchResults", "chooseYourTeam"]
+    },
+    {
+      "key": "snapshot-rules-board",
+      "title": "Snapshot and rules board",
+      "path": "assets/whitepaper/snapshot-rules-board.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Rules and eligibility image for snapshot, listing, anti-scam, and safety explanations.",
+      "recommendedTargets": ["rules", "security", "howToMint", "wlInfo"]
+    },
+    {
+      "key": "claims-community-rewards",
+      "title": "Claims and community rewards",
+      "path": "assets/whitepaper/claims-community-rewards.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Rewards image for share weighting, claims, community reward posts, and examples.",
+      "recommendedTargets": ["rewardUpdates", "rewardSimulation", "raffles", "collabs"]
+    },
+    {
+      "key": "hero-knockouts-capybara",
+      "title": "Knockouts capybara hero",
+      "path": "assets/whitepaper/hero-knockouts-capybara.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Legacy hero retained for compatibility with older whitepaper and Discord state.",
+      "recommendedTargets": ["whitepaper"]
+    },
+    {
+      "key": "world-cup-capybaras-logo",
+      "title": "Classic logo",
+      "path": "assets/whitepaper/world-cup-capybaras-logo.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Classic logo retained as fallback thumbnail and compatibility asset.",
+      "recommendedTargets": ["officialLinks"]
+    },
+    {
+      "key": "team-allocation-concept-archive",
+      "title": "Team allocation concept archive",
+      "path": "assets/whitepaper/team-allocation-concept-archive.png",
+      "publicSafe": false,
+      "status": "concept-archive",
+      "role": "Archived concept art. Do not use in official Discord allocation posts because it includes older ranking language.",
+      "recommendedTargets": ["dashboardGallery", "repoArchive"]
+    },
+    {
+      "key": "pre-reveal-01",
+      "title": "Pre-reveal artwork 01",
+      "path": "assets/pre-reveal/pre-reveal-01.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Pre-reveal sample image for mint and reveal education.",
+      "recommendedTargets": ["mintInfo", "mintStatus"]
+    },
+    {
+      "key": "pre-reveal-02",
+      "title": "Pre-reveal artwork 02",
+      "path": "assets/pre-reveal/pre-reveal-02.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Pre-reveal sample image for mint and reveal education.",
+      "recommendedTargets": ["mintUpdates", "howToMint"]
+    },
+    {
+      "key": "pre-reveal-03",
+      "title": "Pre-reveal artwork 03",
+      "path": "assets/pre-reveal/pre-reveal-03.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Pre-reveal sample image for community and team selection posts.",
+      "recommendedTargets": ["chooseYourTeam", "raffles"]
+    },
+    {
+      "key": "pre-reveal-04",
+      "title": "Pre-reveal artwork 04",
+      "path": "assets/pre-reveal/pre-reveal-04.png",
+      "publicSafe": true,
+      "status": "current",
+      "role": "Pre-reveal sample image for collab and allowlist posts.",
+      "recommendedTargets": ["collabs", "wlInfo"]
+    }
+  ]
+}

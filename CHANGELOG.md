@@ -22,5 +22,5 @@
 - Clarified delayed reveal and active supply rules.
 - Added pre-event and post-event snapshot rules.
 - Added listing-in-window disqualification rule for active reward events.
-- Added recovered visual assets for whitepaper/Discord publishing.
+- Added recovered visual assets for whitepaper/Discord publishing, including a visual asset manifest, semantic whitepaper images, and pre-reveal samples.
 - Added non-affiliation and risk disclaimers.
